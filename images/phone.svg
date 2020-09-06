@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23" width="24" height="23">
+	<defs>
+		<image width="24" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAMAAAAm/38fAAAAAXNSR0IB2cksfwAAAPBQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ZmikqQAAAFB0Uk5TADGSdglE9v+ITPmyBhfwuwqOswFJj1kS5rrAJgKb8YP+BC707BXqxBTR0PeJFkAQGdjb8ukpE8/8QU2xejD1gS+aoHsHdOFFtg0DYMnovmiL8fNIAAAA10lEQVR4nG3Q1xaCMAwG4CpoUHEg4t577z1w7/X+byNtHVjIVfv956RpEGLKYuV41nDZ7ACCiTucAC4Riay7PQBeH5L8MhMENOdlBSDIBKFwhDhE2V4xPp7QHJJsL4RS2CGdMQTZHA7yxoELRRyUDF6ukFacwavEa25zhzq9Npotemh3qHd95GrrQX+AD8MR9fGE+FTb20zUOcyJL1S8H7RcfX1Nf70mLoHaf/smTh/cak73Q0v4bGmX4pHy5fFeP/3PD0e9i6c31+rn//9erjcV7o9nQY8vPqkUhYAW0v8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contacts">
+		<g id="phone">
+			<use id="phone icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

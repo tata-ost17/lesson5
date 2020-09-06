@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<defs>
+		<image width="22" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAAXNSR0IB2cksfwAAARRQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////qovlLgAAAFx0Uk5TAA5Ug6KCUw0fo/n/Hmj39mSP1HErFCxy1YxqawNu+mYh+EVHpWcLZaCbYQeBhhDTAuLtWeFVVoQptCK1nZ8dnBtXqYUarWON/TPWSeVwCBN5pwGLKm3ORKglkBF/5tDjAAABDklEQVR4nG2R6VbCMBCFpxoUcxUUCoKGSq3WBXfEXURRFBUQ9+X938NJQ1kO3D+Z+U4yMzdDZGSNjQsRmZikfkWnJAJJMd2jMzF0FZ8N6RxniaSdSqXnMxxmDV3gt4vKxCrnAEs6yruQy72CnkQsyucKsMqHv7a+sVnY2lb8WBDtONjdI7L3db8DwFMZuBYVgRzfPQwnKVESOKJj4IRHBE7zZ+cBTgMRugDY2iVQZlcBtoArDfwAV4jKjK9JATdU7Ra5regid34NuB9qqfVQ1wMmVDjg49Ozpg1jp2HsiFqTWi/tbL1j3vFoWP1f9Vp8aw1+7HuzYH98aiuj1iC/RizN/f4ZaKBX3P4t/XXSfyGYIRD0T7+3AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contacts">
+		<g id="email">
+			<use id="email icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
